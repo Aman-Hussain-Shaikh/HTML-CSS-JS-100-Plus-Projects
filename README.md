@@ -5,4 +5,4 @@
 03. Testinomial Slider
 04. Custom Scrollbar
 05. Tip Calculator
-06. 
+06. Creative Image Effect
