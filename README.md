@@ -1,8 +1,9 @@
 # HTML-CSS-JS-100-Plus-Projects
 
-01. Bg - Video
-02. Creative Loading Animation
-03. Testinomial Slider
-04. Custom Scrollbar
-05. Tip Calculator
-06. Creative Image Effect
+1.  Bg - Video
+2.  Creative Loading Animation
+3.  Testinomial Slider
+4.  Custom Scrollbar
+5.  Tip Calculator
+6.  Creative Image Effect
+7.  Random Emoji
